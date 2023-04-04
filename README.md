@@ -3,8 +3,8 @@
 Current personal Vale configuration
 
 ```plaintext
-├── .vale.ini
-├── .vale
+├── dot-vale.ini
+├── dot-vale
     └── styles
         ├── Google
         ├── education
@@ -15,3 +15,8 @@ Current personal Vale configuration
         │   └── vault
         └── write-good
 ```
+
+## Notes
+
+Third-party style and vocab content is not included since it
+can be installed with `vale` or sourced elsewhere.
