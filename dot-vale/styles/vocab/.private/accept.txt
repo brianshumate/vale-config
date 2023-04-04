@@ -1,0 +1,14 @@
+Additional
+additional
+allocate
+config
+crl
+fi
+github
+hashistack
+HashiStack
+nvm
+pkgs
+PostgreSQL
+Shumate
+...
